@@ -271,7 +271,7 @@ REFERENCES:
 	http://lxr.fsl.cs.sunysb.edu/linux/source/
 2. ecryptfs
 	for readdir and filldir
-3. Class notes
-4. Setting Immutable flag:
-	The idea has been discussed with two of my colleagues
-	Shubhda Patil and Nirmit Desai
+3. Class notes provided by Prof. Erez Zadok
+
+
+PS: Please send me an email at jasmit.saluja@stonybrook.edu for code.
